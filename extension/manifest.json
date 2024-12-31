@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Coupon Finder",
+    "version": "1.0",
+    "description": "Finds coupon codes for the current website",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
